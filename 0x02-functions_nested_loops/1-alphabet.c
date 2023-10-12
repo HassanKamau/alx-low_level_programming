@@ -2,7 +2,10 @@
 
 
 	/**
+	 * main - function
+	 * Description: "1-alphabet.c"
 	 * print_alphabet - print all alphabet in lowercase
+	 *  Return: 0
 	 */
 
 
